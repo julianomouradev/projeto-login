@@ -55,4 +55,8 @@
         margin: 20px 0px;
     }
 
+    div.campo > input {
+        transform: translateY(-12px);
+    }
+
 }
